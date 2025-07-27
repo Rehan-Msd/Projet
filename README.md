@@ -16,7 +16,7 @@ Ce projet applique des modèles économétriques avancés (ARMA, GARCH, GJR-GARC
 Il intègre également une analyse de la Value at Risk (VaR) et un backtesting rigoureux. 
 Le contexte macroéconomique, la communication d’Elon Musk, et la transition énergétique sont également pris en compte comme facteurs explicatifs du risque.
 
-📎 [Télécharger le rapport Tesla (PDF)](./Projet%20TESLA.pdf)
+📎 [Télécharger le projet Tesla (PDF)](./Projet%20TESLA.pdf)
 ---
 
 ## 💼 2. Projet d’Allocation de Portefeuille
@@ -30,7 +30,7 @@ Le contexte macroéconomique, la communication d’Elon Musk, et la transition �
 Ce projet présente un portefeuille diversifié composé de 3 actions françaises (TotalEnergies, BNP Paribas, Amundi), d’un contrat future sur le S&P500, d’une obligation Avis Budget Finance, d’un positionnement Forex EUR/USD, de l’or et d’un ETF China Large Caps.  
 Il s’inscrit dans un contexte économique incertain (inflation, tensions géopolitiques, croissance chinoise) et vise une performance équilibrée avec un profil de risque modéré.
 
-📎 [Télécharger le rapport Allocation (PDF)](./Projet%20Allocation%20de%20portefeuille.pdf)
+📎 [Télécharger le projet d'Allocation (PDF)](./Projet%20Allocation%20de%20portefeuille.pdf)
 ---
 
 ## 📬 Contact
