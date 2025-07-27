@@ -1,6 +1,6 @@
 # 🎓 Projets de Master — Finance
 
-Ce dépôt contient deux projets réalisés dans le cadre du Master MBFA (Monnaie, Banque, Finance, Assurance) à l’Université de Montpellier. 
+Ce dépôt contient les projets réalisés dans le cadre du Master MBFA (Monnaie, Banque, Finance, Assurance) à l’Université de Montpellier. 
 ---
 
 ## 📈 1. Projet d'Économétrie Financière — *Tesla Inc.*
